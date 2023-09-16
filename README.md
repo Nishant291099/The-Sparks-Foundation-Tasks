@@ -28,6 +28,14 @@ In this internship, we were provided various Tasks and I was able to successfull
 
 3.Data can be found at https://bit.ly/3kXTdox .
 
+# Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+2. As a business manager, try to find out the weak areas where you can work to make more profit.
+3. What all business problems you can derive by exploring the data?
+4. You can choose any of the tool of your choic (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+5. Dataset: https://bit.ly/3i4rbWl
+6. Create dashboards
+
 # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
 1.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
